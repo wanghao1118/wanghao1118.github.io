@@ -25,10 +25,10 @@ In my first two years before I join in JD.com, I dedicated to develop early lung
 
 My research interest includes unified medical multi-modal large language models (MLLM), MLLM hallucination and optimization of vision encoder. Currenlty, I am deeply involved in radiology report generation with MLLM.
 
-
+Enhancing diagnosis of benign lesions and lung cancer through ensemble text and breath analysis: a retrospective cohort study
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 New Paper "Enhancing diagnosis of benign lesions and lung cancer through ensemble text and breath analysis: a retrospective cohort study" Accepted by Scientific Reports. 
+- *2023.09*: &nbsp;🎉🎉 New Paper "A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer" Accepted by RSC Advances. 
 
 # 📝 Publications 
 
