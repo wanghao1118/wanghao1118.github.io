@@ -35,8 +35,13 @@ Enhancing diagnosis of benign lesions and lung cancer through ensemble text and 
 - Wang, Hao, et al. ["A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer."](https://pubs.rsc.org/en/content/articlehtml/2023/ra/d3ra04522f) **RSC advances** 13.45 (2023): 31835-31843.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Peking Union Medical University, Tsinghua University First Prize Scholarship
+- *2022* Peking Union Medical University, Tsinghua University Scholarship for Freshmen
+- *2021* National Third Prize in the National College Student Mathematics Competition
+- *2020* Competition Provincial Bronze Award in the 6th China International "Internet+" College Student Innovation and
+Entrepreneurship Competition
+- *2020* National Second Prize in the National College Student Computer Design
+- *2018* University Third-Class Scholarship
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
