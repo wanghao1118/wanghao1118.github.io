@@ -38,7 +38,8 @@ Enhancing diagnosis of benign lesions and lung cancer through ensemble text and 
 - Wang, Hao, et al. "A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer." RSC advances 13.45 (2023): 31835-31843.
 </div>
 </div>
-- Wang, Hao, et al. ["Enhancing diagnosis of benign lesions and lung cancer through ensemble text and breath analysis: a retrospective cohort study."](https://pubs.rsc.org/en/content/articlehtml/2023/ra/d3ra04522f) **Scientific Reports** 14.1 (2024): 8731.
+- Wang, Hao, et al. ["Enhancing diagnosis of benign lesions and lung cancer through ensemble text and breath analysis: a retrospective cohort study."](https://www.nature.com/articles/s41598-024-59474-w) **Scientific Reports** 14.1 (2024): 8731.
+- Wang, Hao, et al. ["A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer."](https://pubs.rsc.org/en/content/articlehtml/2023/ra/d3ra04522f) **RSC advances** 13.45 (2023): 31835-31843.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
