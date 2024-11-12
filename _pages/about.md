@@ -31,16 +31,8 @@ Enhancing diagnosis of benign lesions and lung cancer through ensemble text and 
 - *2023.09*: &nbsp;🎉🎉 New Paper "A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer" Accepted by RSC Advances. 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- Wang, Hao, et al. "Enhancing diagnosis of benign lesions and lung cancer through ensemble text and breath analysis: a retrospective cohort study." Scientific Reports 14.1 (2024): 8731.
-- Wang, Hao, et al. "A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer." RSC advances 13.45 (2023): 31835-31843.
-</div>
-</div>
 - Wang, Hao, et al. ["Enhancing diagnosis of benign lesions and lung cancer through ensemble text and breath analysis: a retrospective cohort study."](https://www.nature.com/articles/s41598-024-59474-w) **Scientific Reports** 14.1 (2024): 8731.
 - Wang, Hao, et al. ["A combined screening study for evaluating the potential of exhaled acetone, isoprene, and nitric oxide as biomarkers of lung cancer."](https://pubs.rsc.org/en/content/articlehtml/2023/ra/d3ra04522f) **RSC advances** 13.45 (2023): 31835-31843.
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
