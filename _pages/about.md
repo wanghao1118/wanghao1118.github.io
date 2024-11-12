@@ -47,4 +47,4 @@ Enhancing diagnosis of benign lesions and lung cancer through ensemble text and 
 - *2018.09 - 2022.06*, Bachelor of Science in Applied Physics, College of Physics, Jilin University, Jilin, China. 
 
 # 💻 Internships
-- *2024.04 - 2024.07*, [JD.com](https://github.com/), China.
+- *2024.04 - 2024.07*, [JD.com](https://jd.com), China.
