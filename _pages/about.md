@@ -19,9 +19,11 @@ redirect_from:
 
 I am a master's student from Peking Union Medical College, Tsinghua University who is about to graduate. I'm supervised by Prof. Meixiu Sun and Associate Prof. Hongxiao Li from Institution of Biomedical Engineering,Chinese Academy of Medical Sciences and Peking Union Medical College.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+From Apr. 2024 to Jul. 2024, I worked at JD.com as a daily intern at Beijing, undertaken construction of retrieval augment generation (RAG) frame and fine-tuning of embedding model.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+In my first two years before I join in JD.com, I dedicated to develop early lung cancer screening model with breath analysis and radiomics and explore minimizing sceeening device based breath analysis with few features prediction model.
+
+My research interest includes unified medical multi-modal large language models (MLLM), MLLM hallucination and optimization of vision encoder. Currenlty, I am deeply involved in radiology report generation with MLLM.
 
 
 # 🔥 News
