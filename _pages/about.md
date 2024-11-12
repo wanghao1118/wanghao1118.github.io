@@ -38,18 +38,13 @@ Enhancing diagnosis of benign lesions and lung cancer through ensemble text and 
 - *2024* Peking Union Medical University, Tsinghua University First Prize Scholarship
 - *2022* Peking Union Medical University, Tsinghua University Scholarship for Freshmen
 - *2021* National Third Prize in the National College Student Mathematics Competition
-- *2020* Competition Provincial Bronze Award in the 6th China International "Internet+" College Student Innovation and
-Entrepreneurship Competition
+- *2020* Competition Provincial Bronze Award in the 6th China International "Internet+" Competition
 - *2020* National Second Prize in the National College Student Computer Design
 - *2018* University Third-Class Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.09 - 2025.06 (now)*, Master of Engineering in Biomedical Engineering, Peking Union Medical College, Tsinghua University, Beijing, China. 
+- *2018.09 - 2022.06*, Bachelor of Science in Applied Physics, College of Physics, Jilin University, Jilin, China. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04 - 2024.07*, [JD.com](https://github.com/), China.
